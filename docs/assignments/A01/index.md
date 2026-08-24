@@ -21,7 +21,7 @@ To create a portfolio of my engineering design decisions in MEGR 2156.
 
 Task A - Portfolio Analysis
 
-https://katieheinemann.space/portfolio.html
+[Katie Heinemann — Aerospace Engineer](https://katieheinemann.space/portfolio.html)
 
 a. When reading through the entire homepage you would not locate the projects in under 60 seconds. The button is not visible when you first open the page you need to scroll down. The button on the home page that redirected you to the portfolio page was also not very clear that it was in fact a button and not just text. Both of these things means it is easy to miss and it would benefit from an outline around the text and moving it to the top of the page, possibly in the open space above the astronaut image.
 
