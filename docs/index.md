@@ -6,6 +6,10 @@ This site is the working record of my engineering design decisions across MEGR 2
 
 > **Engineering is the art of making decisions you can defend.**
 
+## Documentation Standard
+
+Every assignment that I submit this year will have specific answers and clearly written explanations so that somebody other than me would easily understand. The entire assignment will be done with the same amount of effort and will follow all instructions.
+
 ## The three pillars
 
 Most assignment pages are organized around:
