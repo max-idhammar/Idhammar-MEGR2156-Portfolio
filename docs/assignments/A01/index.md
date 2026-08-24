@@ -1,7 +1,7 @@
 # A1 – [Build Your Professional Portfolio]
 3 Documented Decisions 
 
- 1. One of the biggest things to convey to the reader is that this is a professional page not a personal project. I also should explain what 2156 is exactly since readers may not know what the class focuses on. This should be stated very clearly and should be one of the first things they see when they open the website. If I want the reader to know what standards I'm holding these assignments to, I should include my documentation standard on the home page so it’s easy to see.
+ 1. It is very important to convey to the reader that this website is a professional page not a personal project. I also need to explain what the class 2156 is exactly, since readers like job recruiters may not know what the class focuses on. This should be stated very clearly and should be one of the first things they see when they open the website. I want the reader to know what standards I'm holding these assignments to, I should include my documentation standard on the home page so it’s easy to see.
 
  2. One customization I made was changing the introduction paragraph on the home page. I altered the wording to be written in 1st person since I want the viewers of the site to know it's my website. I also changed the course number from 2157 to 2156 since my current course is 2156. And I included a bit more information on what 2156 is exactly. The requirement that this change satisfies is, knowing who's work this is and what they are working on, this is crucial for any portfolio.
     
