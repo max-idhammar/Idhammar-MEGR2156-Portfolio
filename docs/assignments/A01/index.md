@@ -1,10 +1,11 @@
 # A1 – [Build Your Professional Portfolio]
-
 3 Documented Decisions 
 
-1.
-2.
-3. Every assignment that I submit this year will have specific answers and clearly written explanations so that somebody other than me would easily understand. The entire assignment will be done with the same amount of effort and will follow all instructions.
+# 1.
+
+# 2.
+
+# 3. Every assignment that I submit this year will have specific answers and clearly written explanations so that somebody other than me would easily understand. The entire assignment will be done with the same amount of effort and will follow all instructions.
 
 ## Objective
 
