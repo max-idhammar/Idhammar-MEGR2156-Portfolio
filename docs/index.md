@@ -8,7 +8,7 @@ This site is the working record of my engineering design decisions across MEGR 2
 
 ## What is MEGR 2156?
 
-Also known as: Design Projects I Laboratory it is an introduction to design and manufacturing. Students learn design visualization, functional analysis, communication, and computer-aided design. Students manufacture a design using machines like lathes and mills, which then is verified for precision and accuracy. 
+Also known as: Design Projects I Laboratory, it is an introduction to design and manufacturing. Students learn design visualization, functional analysis, communication, and computer-aided design. Students manufacture a design using machines like lathes and mills, which then is verified for precision and accuracy. 
 
 ## Documentation Standard
 
