@@ -23,7 +23,7 @@ To create a portfolio of my engineering design decisions in MEGR 2156.
 
 Portfolio 1
 
-[Katie Heinemann — Aerospace Engineer](https://katieheinemann.space/portfolio.html)
+[Katie Heinemann - Aerospace Engineer](https://katieheinemann.space/portfolio.html)
 
 a. When reading through the entire homepage you would not locate the projects in under 60 seconds. The button is not visible when you first open the page you need to scroll down. The button on the home page that redirected you to the portfolio page was also not very clear that it was in fact a button and not just text. Both of these things means it is easy to miss and it would benefit from an outline around the text and moving it to the top of the page, possibly in the open space above the astronaut image.
 
@@ -32,6 +32,13 @@ b. The documentation for the projects was not very clear, any work Katie wrote a
 c. Tying in to part b, Katie’s projects only provided a brief overview of the work that was done, mainly focusing on the results of that work. While context for each project was provided which made it easier to understand what each project was, there was no mention of the design process or decision making. This could be due to his page catering more to job recruiters who may place more importance on results.
 
 d. Katie is clearly a very smart and accomplished engineer, the tone is definitely up to any employer’s standards, however his heavy use of abbreviations could make it difficult for someone without specific knowledge of those fields to fully understand the work he was doing.
+
+In Summary Katie’s portfolio was effective at briefly discussing each project and giving the reader a decent understanding of the problem that was given and the solution, as well as the effectiveness of the project. The portfolio did not include any details on the decisions made during the design process. The tone of the portfolio would appeal to any recruiter or employer, however they may find the website a bit hard to navigate.
+
+Portfolio 2
+
+[Lucjan Konopka - Data Engineer](https://github.com/lucjankonopka/portfolio)
+
 
 
 ###Task B - Product Analysis
