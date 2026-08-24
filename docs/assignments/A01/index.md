@@ -19,7 +19,9 @@ To create a portfolio of my engineering design decisions in MEGR 2156.
   
 ## Analyze
 
-Task A - Portfolio Analysis
+###Task A - Portfolio Analysis
+
+Portfolio 1
 
 [Katie Heinemann — Aerospace Engineer](https://katieheinemann.space/portfolio.html)
 
@@ -32,11 +34,11 @@ c. Tying in to part b, Katie’s projects only provided a brief overview of the 
 d. Katie is clearly a very smart and accomplished engineer, the tone is definitely up to any employer’s standards, however his heavy use of abbreviations could make it difficult for someone without specific knowledge of those fields to fully understand the work he was doing.
 
 
-Task B - Product Analysis
+###Task B - Product Analysis
 
 ## Decide
 
-Before any other content on my A1 portfolio page, please direct your attention to my 3 documented decisions regarding my documented standard for all assignments this semester, my homepage identity and any intentional customizations.
+Before any other content on my A1 portfolio page, I documented 3 decisions regarding my homepage identity, documented standard for all assignments this semester, and any intentional customizations.
 
 ## Communicate
 
