@@ -56,10 +56,21 @@ This portfolio was very easy to navigate, mainly due to the fact that it was all
 
 
 ###Task B - Product Analysis
-<img width="1512" height="2016" alt="IMG_9244" src="https://github.com/user-attachments/assets/36ee2fca-a284-41a2-b341-33e6b7ee9c10" />
-<img width="2016" height="1512" alt="IMG_9246" src="https://github.com/user-attachments/assets/450349a2-205c-4a78-b578-c48480102ce3" />
-<img width="2016" height="1512" alt="IMG_9245" src="https://github.com/user-attachments/assets/c5f65ace-7cf5-4a6b-bd3f-42c791790e73" />
 
+a. The primary function of a zipper is to use linear motion in the slider of the zipper to mechanically attach two pieces of fabric together by locking two opposing zipper chains together, more specifically, the teeth of each opposing zipper chain interlock together to provide a strong connection. These interlocked zipper chains are easily reversed using the slider in the reverse direction from locking the zipper. making the technology very useful for clothing and bags.
+
+b. The physical principle for a zipper is the mechanical locking of the zipper chain’s teeth. The friction between the interlocked teeth keep the connection secure by resisting relative motion
+i. The model for this is Ff=𝜇N ;Where Ff is frictional force, 𝜇 is the coefficient of friction and N is the normal force between the contacting teeth. 
+ii. One assumption made for this model to work is having the zipper aligned for constant contact of all teeth during operation
+
+<img width="1512" height="2016" alt="IMG_9244" src="https://github.com/user-attachments/assets/36ee2fca-a284-41a2-b341-33e6b7ee9c10" />
+Figure 1 
+
+<img width="2016" height="1512" alt="IMG_9246" src="https://github.com/user-attachments/assets/450349a2-205c-4a78-b578-c48480102ce3" />
+Figure 2
+
+<img width="2016" height="1512" alt="IMG_9245" src="https://github.com/user-attachments/assets/c5f65ace-7cf5-4a6b-bd3f-42c791790e73" />
+Figure 3 
 
 ## Decide
 
