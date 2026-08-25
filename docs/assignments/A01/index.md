@@ -11,11 +11,16 @@
 
 To create a portfolio of my engineering design decisions in MEGR 2156. 
 - Analyze other engineering portfolios
+  
 - Analyze a product
-- Decide homepage identity 
-- Decide customizations 
+  
+- Decide homepage identity
+  
+- Decide customizations
+  
 - Decide documentation standard
-- Communicate background and answer engineering questions
+  
+- Communicate background, answer engineering questions, and time spent
   
 ## Analyze
 
