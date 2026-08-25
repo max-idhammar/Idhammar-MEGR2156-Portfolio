@@ -63,11 +63,13 @@ b. The physical principle for a zipper is the mechanical locking of the zipper c
 i. The model for this is Ff=𝜇N ;Where Ff is frictional force, 𝜇 is the coefficient of friction and N is the normal force between the contacting teeth. 
 ii. One assumption made for this model to work is having the zipper aligned for constant contact of all teeth during operation
 
+
+c.
 <img width="1512" height="2016" alt="IMG_9244" src="https://github.com/user-attachments/assets/36ee2fca-a284-41a2-b341-33e6b7ee9c10" />
-Figure 1 
+Figure 1: Zipper Slider
 
 <img width="2016" height="1512" alt="IMG_9246" src="https://github.com/user-attachments/assets/450349a2-205c-4a78-b578-c48480102ce3" />
-Figure 2
+Figure 2 Zipper Chain
 
 <img width="2016" height="1512" alt="IMG_9245" src="https://github.com/user-attachments/assets/c5f65ace-7cf5-4a6b-bd3f-42c791790e73" />
 Figure 3 
