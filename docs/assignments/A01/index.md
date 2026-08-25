@@ -66,13 +66,13 @@ ii. One assumption made for this model to work is having the zipper aligned for 
 
 c.
 <img width="1512" height="2016" alt="IMG_9244" src="https://github.com/user-attachments/assets/36ee2fca-a284-41a2-b341-33e6b7ee9c10" />
-Figure 1: Zipper Slider
+**Figure 1: Zipper Slider:** The zipper slider has two tapered internal channels for each zipper chain shaped like a Y. These channels gradually bring the two rows of teeth together, interlocking them as the slider moves in one direction. You can think of the closing motion like squeezing the top of the Y together into a straight line. Moving it in the opposite direction separates the teeth, You can picture this as pulling each side of the Y apart.
 
 <img width="2016" height="1512" alt="IMG_9246" src="https://github.com/user-attachments/assets/450349a2-205c-4a78-b578-c48480102ce3" />
-Figure 2 Zipper Chain
+**Figure 2 Zipper Chain:** The zipper chain is a chain of two rows of repeating, precisely spaced teeth attached to a piece of fabric. Each tooth has geometry that allows it to lock together with the tooth opposite it, the teeth are also resistant to being pulled directly apart once locked in. However using the slide they are easily seperated.
 
 <img width="2016" height="1512" alt="IMG_9245" src="https://github.com/user-attachments/assets/c5f65ace-7cf5-4a6b-bd3f-42c791790e73" />
-Figure 3 Bottom Stop
+**Figure 3 Mobile Pin:** The mobile pin is a component attached to one side of the zipper chain at the bottom of whatever you are "zipping up" that can move into and out of the slider's receiving opening. The mobile pin's geometry allows it to enter the slider and line up the two sides of the zipper. 
 
 d. The problem of finding an easy way to fasten things was being worked on by many different inventors in the early 1900's. However it was a Swedish American named Gideon Sundback who patented the first working zipper mechanism in 1917. That patent number is: 1,219,881,
 i.  Some alternative solutions for reversibly fastening two objects together are Velcro, which uses lots and lots of tiny hooks that connect two pieces and is easily pulled apart. Buttons also do the same thing they reversibly connect two things together, one side has a circular button sowed on and the other has a slit for the button to slide into locking the pieces together. 
