@@ -56,6 +56,10 @@ This portfolio was very easy to navigate, mainly due to the fact that it was all
 
 
 ###Task B - Product Analysis
+<img width="1512" height="2016" alt="IMG_9244" src="https://github.com/user-attachments/assets/36ee2fca-a284-41a2-b341-33e6b7ee9c10" />
+<img width="2016" height="1512" alt="IMG_9246" src="https://github.com/user-attachments/assets/450349a2-205c-4a78-b578-c48480102ce3" />
+<img width="2016" height="1512" alt="IMG_9245" src="https://github.com/user-attachments/assets/c5f65ace-7cf5-4a6b-bd3f-42c791790e73" />
+
 
 ## Decide
 
