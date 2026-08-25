@@ -39,6 +39,15 @@ Portfolio 2
 
 [Lucjan Konopka - Data Engineer](https://github.com/lucjankonopka/portfolio)
 
+a. Reaching the projects was extremely simple, and it would be hard for anyone to miss them. The projects are not located on a separate page, instead they are right underneath a simple introduction right on the main page. Therefore I would say this portfolio was navigable. 
+
+b. This portfolio’s projects were divided into 3 subcategories, an overview, a list of technology used, and finally the outcome. Neither one of these 3 categories were particularly detailed, the explanations helps readers loosely understand the project. But there is not nearly enough information or documentation to reproduce the work.
+
+c. The brief overviews provide readers with context on what the problem being solved in each project is. But the actual process of the work was not included, therefore there is no documentation on decision making. The final results section of the project focuses only on the outcome. You could argue that the inclusion of the technologies used provides a small bit of information as to the process of the project.
+
+d. The tone of the projects does read a bit unprofessional. If we want to start nitpicking, the greeting at the beginning of the page should not have an exclamation mark; it reads as unprofessional. The portfolio should also go more in depth about each project, the context and background, and especially the decision making process. A job recruiter or employer would not see this portfolio as professional.
+
+This portfolio was very easy to navigate, mainly due to the fact that it was all one page. Making it impossible to miss the projects listed. Each project had a brief description, along with a list of technology used during the project and finally the outcome or results of the project. This made understanding each project very simple, however, the descriptions should have been more detailed since it would be impossible to replicate the work. On top of not being able to replicate the work, there was no mention of any decision making processes which would be useful for any potential employers to see how this engineer “ticks.” Lastly the tone could have been more professional, greetings should be punctuated with a period and the descriptions should provide more information. 
 
 
 ###Task B - Product Analysis
