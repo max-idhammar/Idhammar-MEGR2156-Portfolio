@@ -85,3 +85,4 @@ Before any other content on my A1 portfolio page, I documented 3 decisions regar
 ## Communicate
 
 Feel free to navigate over to the "about me" page to see my professional introduction and my response to "defending an engineering decision."
+I spent 8 hours on this assignment.
