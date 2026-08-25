@@ -72,7 +72,11 @@ Figure 1: Zipper Slider
 Figure 2 Zipper Chain
 
 <img width="2016" height="1512" alt="IMG_9245" src="https://github.com/user-attachments/assets/c5f65ace-7cf5-4a6b-bd3f-42c791790e73" />
-Figure 3 
+Figure 3 Bottom Stop
+
+d. The problem of finding an easy way to fasten things was being worked on by many different inventors in the early 1900's. However it was a Swedish American named Gideon Sundback who patented the first working zipper mechanism in 1917. That patent number is: 1,219,881,
+i.  Some alternative solutions for reversibly fastening two objects together are Velcro, which uses lots and lots of tiny hooks that connect two pieces and is easily pulled apart. Buttons also do the same thing they reversibly connect two things together, one side has a circular button sowed on and the other has a slit for the button to slide into locking the pieces together. 
+ii. On Sundback's original patent there is a small tab located on the zipper slider that looks like an ergonomic addition to make it easier to to pull the zipper closed or apart. This is not necessary for the function of a zipper but since this is a product marketed to consumers it makes sense to include it.
 
 ## Decide
 
