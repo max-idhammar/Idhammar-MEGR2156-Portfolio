@@ -2,6 +2,7 @@
 
 ## Objective
 
+The objective of this project is to design and analyze a lightweight planar steel truss. The project uses statics and dynamics as well as calculations with a CAD model to design.
 
 
 ## Analyze
@@ -23,9 +24,15 @@
 
 ## Decide
 _Which geometry did you select, and why? This is your first open design choice in the course — defend it._
-## Trapezoid Shape Truss
-<img width="941" height="523" alt="Screenshot 2026-09-01 041617" src="https://github.com/user-attachments/assets/6458cd4f-7004-4e7b-b4fb-a39a1aa846e5" />
+# Trapezoid Shape Truss
+<img width="1130" height="572" alt="Screenshot 2026-09-01 063140" src="https://github.com/user-attachments/assets/cd9c7e94-4bd5-495f-913e-1042c202a6ef" />
 
+# Dimensions
+<img width="1182" height="505" alt="Screenshot 2026-09-01 062437" src="https://github.com/user-attachments/assets/a2cea9f6-25df-40b5-95f9-6ee423e654aa" />
+
+# Attempted CAD Simulation 
+<img width="643" height="451" alt="Screenshot 2026-09-01 064433" src="https://github.com/user-attachments/assets/a70fe4a9-dbbc-4ac2-bc7a-213b8e871e2f" />
 
 ## Communicate
 
+The expected failure mode for A500 steel is yielding, which is caused by a material reaching it's yield strength. Although members can realistically fail by buckling. The material behavior of A500 steel is ductile, which means it can stretch and compress a lot before failing by breaking apart which is called fracture. This is why yielding is expected to occur before fracture.
