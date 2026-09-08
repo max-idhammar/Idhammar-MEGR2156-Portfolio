@@ -6,23 +6,7 @@ The objective of this project is to parametrically design an aluminum bar, by ca
 
 ## Analyze
 
-### Deflection Map
-<img width="1516" height="948" alt="Screenshot 2026-09-08 061109" src="https://github.com/user-attachments/assets/20b08c8e-24b6-45e9-98aa-ca60af2031ab" />
-This displacement map shows a *maximum* displacement of 0.00899 in making it only 0.1% off from our maximum of 0.009 in.
-
-### von Mises Stress map
-<img width="1537" height="943" alt="Screenshot 2026-09-08 061053" src="https://github.com/user-attachments/assets/6936a61c-e762-494c-bf43-44f2da95e7de" />
-This stress map shows a maximum of 244.3 PSI, I calculated 228.6 psi making the simulation only a 6.88% difference.
-
-### Safety Factor
-
-<img width="1587" height="553" alt="Screenshot 2026-09-08 072455" src="https://github.com/user-attachments/assets/b7a4359b-ca5a-4d20-b6d4-8134b46c88d9" />
-
-
-## Decide
-
-
-###Decide what values to use. 
+###Pick values to use. 
 
 - Applied Load = 400lb
 * E = 10,000,000 psi
@@ -53,6 +37,20 @@ This just felt like a good baseline to start my calculations with, I figured if 
 
 <img width="1917" height="1078" alt="Screenshot 2026-09-08 055639" src="https://github.com/user-attachments/assets/c211bffc-1dd1-4ee9-81de-de63a88ad1bc" />
 
+
+## Decide
+
+### Deflection Map
+<img width="1516" height="948" alt="Screenshot 2026-09-08 061109" src="https://github.com/user-attachments/assets/20b08c8e-24b6-45e9-98aa-ca60af2031ab" />
+This displacement map shows a *maximum* displacement of 0.00899 in making it only 0.1% off from our maximum of 0.009 in.
+
+### von Mises Stress map
+<img width="1537" height="943" alt="Screenshot 2026-09-08 061053" src="https://github.com/user-attachments/assets/6936a61c-e762-494c-bf43-44f2da95e7de" />
+This stress map shows a maximum of 244.3 PSI, I calculated 228.6 psi making the simulation only a 6.88% difference.
+
+### Safety Factor
+
+<img width="1587" height="553" alt="Screenshot 2026-09-08 072455" src="https://github.com/user-attachments/assets/b7a4359b-ca5a-4d20-b6d4-8134b46c88d9" />
 
 ## Communicate
 
