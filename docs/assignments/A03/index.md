@@ -1,5 +1,5 @@
 # A3 – [Parametric and FEA]
-
+[Download CAD File Here](https://drive.google.com/file/d/1pss_80-lgLtfrEunqIOWDcgw17CKxIkt/view?usp=sharing)
 ## Objective
 
 The objective of this project is to parametrically design an aluminum bar, by calculating for a maximum axial deflection, and using finite element analysis to check if the axial deflection was within the 0.009 maximum given to us. Documenting the process and calculations along the way and reflecting on the calculated and simulated values.
@@ -24,11 +24,13 @@ This stress map shows a maximum of 244.3 PSI, I calculated 228.6 psi making the 
 
 ###Decide what values to use. 
 
--Applied Load = 400lb
--E = 10,000,000 psi
--Height = 2in 
--Width = 2 in
--Thickness = 0.25 in
+- Applied Load = 400lb
+* E = 10,000,000 psi
++ Height = 2in 
+- Width = 2 in
+* Thickness = 0.25 in
+
+This just felt like a good baseline to start my calculations with, I figured if I needed to change it after testing I would go back a revise.
 
 ### Calculate Area and Length
 
@@ -54,3 +56,5 @@ This stress map shows a maximum of 244.3 PSI, I calculated 228.6 psi making the 
 
 ## Communicate
 
+I realized reading through the instructions that creo would not be optimal moving forward so I downloaded solidworks. This posed a challenge as I was handling some advanced stuff while also figuring out the basics on an entirely new interface. I spent about 15 minutes in the visualize software before I realized I was in the wrong spot. Learning FEA was a challenge even though it was intuitive on solidworks I had never done anything like it. 
+I spent 4 hours and 45 minutes on this assignment 
