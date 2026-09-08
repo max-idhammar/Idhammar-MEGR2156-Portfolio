@@ -17,7 +17,7 @@ This stress map shows a maximum of 244.3 PSI, I calculated 228.6 psi making the 
 ### Safety Factor
 <img width="1537" height="943" alt="Screenshot 2026-09-08 061053" src="https://github.com/user-attachments/assets/87d012e1-5d5a-4166-a119-d11550585465" />
 
-## Decid
+## Decide
 
 
 ###Decide what values to use. 
