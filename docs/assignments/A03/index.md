@@ -31,6 +31,8 @@ This just felt like a good baseline to start my calculations with, I figured if 
 
 <img width="935" height="428" alt="Screenshot 2026-09-08 052508" src="https://github.com/user-attachments/assets/867ddcaf-e48e-4511-a794-bcb411bc5899" />
 
+- Note the change in force effects the length since the length is relative to the force applied.
+
 ### Learning How to do an FEA
 
 <img width="1917" height="1078" alt="Screenshot 2026-09-08 055934" src="https://github.com/user-attachments/assets/b0feb84a-94d3-453f-9968-21f7f4af71d6" />
@@ -52,7 +54,13 @@ This stress map shows a maximum of 244.3 PSI, I calculated 228.6 psi making the 
 
 <img width="1587" height="553" alt="Screenshot 2026-09-08 072455" src="https://github.com/user-attachments/assets/b7a4359b-ca5a-4d20-b6d4-8134b46c88d9" />
 
+My designed bar's maximum stress under 400 lbs of axial load is under the maximum stress. With a safety factor of 163.7
+
 ## Communicate
+
+My axial deflection simulations were within 0.1 % of expected based off my calculations, because of the uniform cross section this is not surprising, because there is nowhere for the stress to concentrate, so our calculations translate very well. I would say the calculations work very well, and In would trust them for a simple design like this, but if you added that pin for example, the FEA would be more reliable. 
+
+With a safety factor of 163.7 any pin would be fine.
 
 I realized reading through the instructions that creo would not be optimal moving forward so I downloaded solidworks. This posed a challenge as I was handling some advanced stuff while also figuring out the basics on an entirely new interface. I spent about 15 minutes in the visualize software before I realized I was in the wrong spot. Learning FEA was a challenge even though it was intuitive on solidworks I had never done anything like it. 
 I spent 4 hours and 45 minutes on this assignment 
