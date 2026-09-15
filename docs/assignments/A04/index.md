@@ -70,4 +70,4 @@ Using ribbing helped with deflection and my parametric equations helped me desig
 
 ### Appendix
 
-(Motor Mount Design Paper From UFL)[https://web.mae.ufl.edu/designlab/Lab%20Assignments/EML2322L%20Motor%20Mount%20Design.pdf]
+[Motor Mount Design Paper From UFL](https://web.mae.ufl.edu/designlab/Lab%20Assignments/EML2322L%20Motor%20Mount%20Design.pdf)
