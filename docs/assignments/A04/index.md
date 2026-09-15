@@ -31,7 +31,7 @@ I started with a basic square shape for the motor to rest on and for the shaft t
 
 ### First Extrusion
 <img width="1243" height="765" alt="Screenshot 2026-09-15 034341" src="https://github.com/user-attachments/assets/4f7bdb46-2d47-4906-b21c-7ec0d903d3d7" />
-
+Used a parametric value that was the wall thickness calculated plus 0.1 mm =11.4mm
 ### Added Wall Mount Piece
 <img width="848" height="722" alt="Screenshot 2026-09-15 035223" src="https://github.com/user-attachments/assets/9294bf70-885b-4229-96b1-2b248c2279d5" />
 This piece will mount to the wall and will have ribs to support against deflection.
