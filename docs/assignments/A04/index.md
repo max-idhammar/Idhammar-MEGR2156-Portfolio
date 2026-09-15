@@ -10,6 +10,9 @@ The objective of this project is to design a wall-mounted motor mount for a 24 V
 
 I decided to use PLA for my material, it has a yield strength of 50 Mpa which becomes an allowable 16.8 Mpa with a safety factor of 3
 
+### Feature 1
+<img width="1762" height="936" alt="Screenshot 2026-09-15 070535" src="https://github.com/user-attachments/assets/73bcd52f-d18a-4876-9a8b-2b626848e4ca" />
+
 ### FBD 1
 <img width="1125" height="460" alt="Screenshot 2026-09-15 072959" src="https://github.com/user-attachments/assets/b66a77e9-355f-4c93-af84-d833a4ff9916" />
 
