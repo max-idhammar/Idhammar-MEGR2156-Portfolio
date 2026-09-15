@@ -1,9 +1,14 @@
 # A4 – [Motor Mount]
 
+(Download CAD File Here)[https://drive.google.com/file/d/1ESdYk73eGihqRNLd0DPVW8H0vUqbO9EC/view?usp=sharing]
+
 ## Objective
 
+The objective of this project is to design a wall-mounted motor mount for a 24 V DC gear motor that safely supports a 300 N applied load. We needed to use beam bending equations to determine the geometry of the beam. Finally We had to create FBDs and a CAD model of the motor mount.
 
 ## Analyze
+
+<img width="1762" height="936" alt="Screenshot 2026-09-15 070535" src="https://github.com/user-attachments/assets/d340df5d-3bbb-46e6-a9cb-4cc3c4ca2e01" />
 
 
 ## Decide
