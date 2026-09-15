@@ -8,8 +8,17 @@ The objective of this project is to design a wall-mounted motor mount for a 24 V
 
 ## Analyze
 
+# Feature 1
 <img width="1762" height="936" alt="Screenshot 2026-09-15 070535" src="https://github.com/user-attachments/assets/d340df5d-3bbb-46e6-a9cb-4cc3c4ca2e01" />
 
+# FBD 1
+<img width="1125" height="460" alt="Screenshot 2026-09-15 072959" src="https://github.com/user-attachments/assets/b66a77e9-355f-4c93-af84-d833a4ff9916" />
+
+# Feature 2
+<img width="1722" height="933" alt="Screenshot 2026-09-15 072720" src="https://github.com/user-attachments/assets/8a3f3d1b-88e4-4a70-9a59-a99077b188c5" />
+
+# FBD 2
+<img width="581" height="727" alt="Screenshot 2026-09-15 073149" src="https://github.com/user-attachments/assets/3975ae84-b42f-4163-8333-76f026eccc10" />
 
 ## Decide
 
@@ -46,11 +55,9 @@ In order to minimize deflection I decided to add ribs on either end of the wall 
 <img width="772" height="570" alt="Screenshot 2026-09-15 055619" src="https://github.com/user-attachments/assets/0e991cac-c779-4a59-b313-35c3f7853efe" />
 
 
-
-
-
 ## Communicate
 
+Using ribbing helped with deflection and my parametric equations helped me design the part.
 
 # Appendix
 
