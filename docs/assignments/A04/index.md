@@ -1,6 +1,6 @@
 # A4 – [Motor Mount]
 
-(Download CAD File Here)[https://drive.google.com/file/d/1ESdYk73eGihqRNLd0DPVW8H0vUqbO9EC/view?usp=sharing]
+[Download CAD File Here](https://drive.google.com/file/d/1ESdYk73eGihqRNLd0DPVW8H0vUqbO9EC/view?usp=sharing)
 
 ## Objective
 
