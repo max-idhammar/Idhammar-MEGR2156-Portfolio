@@ -64,6 +64,10 @@ The finished Motor mount has clearances on all holes, used parametric modeling f
 
 Using ribbing helped with deflection and my parametric equations helped me design the part, I also used parametric equations for the clearance holes required. The paper on motor mount design was helpful for getting a starting point and general guidelines.
 
+### Isometric Sketch
+<img width="2973" height="2585" alt="IMG_9367" src="https://github.com/user-attachments/assets/66c04a4d-edd7-4ac4-bcb5-adcdc145e8ae" />
+
+
 ### Appendix
 
 (Motor Mount Design Paper From UFL)[https://web.mae.ufl.edu/designlab/Lab%20Assignments/EML2322L%20Motor%20Mount%20Design.pdf]
